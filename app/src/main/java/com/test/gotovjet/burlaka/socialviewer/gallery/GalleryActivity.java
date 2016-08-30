@@ -29,7 +29,7 @@ public class GalleryActivity extends AppCompatActivity {
     private ViewPager viewPager;
     private ImageViewAdapter imageViewAdapter;
     private UserInfo userModelSingleton;
-    private PictureCash pictureCash;
+    //private PictureCash pictureCash;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -40,7 +40,7 @@ public class GalleryActivity extends AppCompatActivity {
         viewPager = (ViewPager) findViewById(R.id.viewpager);
         getPicture ();
         userModelSingleton = UserInfo.getInstance();
-        pictureCash = new PictureCash(this);
+        //pictureCash = new PictureCash(this);
     }
 
     public  void getPicture (){
