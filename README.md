@@ -1,6 +1,10 @@
 # SocialViewer
 My test to V-Jet
 
+# Technology used in SocialViewer
+Android SDK, MVP, Google+ Sign in API, Facebook SDK, VK SDK, Nostra13 Universalimageloader 
+
+
 ###Download
 [APK from Github](https://github.com/SergeyBurlaka/SocialViewer/blob/master/APK/SocialViewer.apk)  
 
