@@ -1,5 +1,4 @@
 # SocialViewer
-My test to V-Jet
 
 ###Download
 [APK from Github] (https://github.com/SergeyBurlaka/SocialViewer/blob/master/APK/SocialViewer.apk)  
