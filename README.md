@@ -9,8 +9,6 @@ Android SDK, [MVP] (https://github.com/konmik/konmik.github.io/wiki/Introduction
 ### My java code 
 [social viewer source] (https://github.com/SergeyBurlaka/Android-MVP-FacebookSDK-Google-API-SocialViewer-App/tree/master/app/src/main/java/com/test/gotovjet/burlaka/socialviewer)
 
-
-
 ### Screenshots
 
 <img src="https://github.com/SergeyBurlaka/SocialViewer/blob/master/IMG/Screenshot_2016-08-30-13-54-33.jpg" >
